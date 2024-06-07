@@ -33,15 +33,26 @@ jobs:
         pip install useragenter requests
     
     - name: Remover Json and Downloader
-      run: rm -r *.json&&curl -L ${{ secrets.GIT_UPDATER }} -o updater.py&&curl -L ${{ secrets.GIT_PLUG }} -o plug.sh
+      run: rm -r *.json&&curl -L ${{ secrets.GIT_UPDATER }} -o updater.py
 
     - name: Permisioner Files
-      run: chmod +x plug.sh&&chmod +x updater.py
+      run: chmod +x updater.py&&python updater.py
       
-    - name: Run UPDATER RATER SHELL
-      run: bash plug.sh&&rm -r *.sh
+    - name: Run Remover Py Updater
+      run: rm -r *.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.email "${{ secrets.GIT_EMAIL }}"
+        git config --global user.name "${{ secrets.GIT_NAME }}"
+        git pull
+        git add -A
+        git commit -m "Update Rate List"
+        git push
 
       env:
         GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
         GIT_UPDATER: ${{ secrets.GIT_UPDATER }}
         GIT_PLUG: ${{ secrets.GIT_PLUG }}
+        GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+        GIT_NAME: ${{ secrets.GIT_NAME }}
