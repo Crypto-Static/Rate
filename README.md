@@ -1,5 +1,13 @@
-# Rate
-Hit Cryptocurrency Rate Reporter and Ticker
+# Crypto Static Rate
+
+<div style="text-align: center; pedding: 6px; margin: 6px;">
+    <a href="#" title="Proxy Scraper Download Free Proxy List">
+        <img src="https://raw.githubusercontent.com/Crypto-Static/Rate/media/CryptoStat.png" alt="proxy scraper header" style="width: 40%;">
+    </a>
+</div>
+
+---
+
 
 
 ```json
@@ -34,3 +42,11 @@ Hit Cryptocurrency Rate Reporter and Ticker
     }
 }
 ```
+---
+
+
+Hit Cryptocurrency Rate Reporter and Ticker (Auto Update)
+
+
+![](https://raw.githubusercontent.com/Crypto-Static/Rate/media/rateStaticScreen.png)
+
