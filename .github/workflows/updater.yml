@@ -1,8 +1,18 @@
-name: Run Python Script
-
+name: Run Updater Script
 on:
   schedule:
     - cron: '*/10 * * * *'  # Runs every 10 minutes
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: Log level
+        required: true
+        default: warning
+        type: choice
+        options:
+          - info
+          - warning
+          - debug
 
 jobs:
   run-script:
