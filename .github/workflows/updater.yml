@@ -38,19 +38,9 @@ jobs:
     - name: Permisioner Files
       run: chmod +x plug.sh&&chmod +x updater.py
       
-    - name: Run Python Script
-      run: python updater.py&&rm -r *.py
+    - name: Run UPDATER RATER SHELL
+      run: bash plug.sh&&rm -r *.sh
 
-    - name: Run Bash Script PLUG
-      run: bash plug.sh&&rm -r plug.sh
-    
-    - name: Commit and Push Changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add rateStatic.json
-        git commit -m 'Update rate $date'
-        git push
       env:
         GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
         GIT_UPDATER: ${{ secrets.GIT_UPDATER }}
