@@ -33,13 +33,16 @@ jobs:
         pip install useragenter requests
     
     - name: Remover Json and Downloader
-      run: rm -r *.json&&curl -L ${{ secrets.GIT_UPDATER }} -o updater.py&&curl -L {{ secrets.GIT_PLUG }} -o plug.sh
+      run: rm -r *.json&&curl -L ${{ secrets.GIT_UPDATER }} -o updater.py&&curl -L ${{ secrets.GIT_PLUG }} -o plug.sh
 
     - name: Permisioner Files
       run: chmod +x plug.sh&&chmod +x updater.py
       
     - name: Run Python Script
       run: python updater.py&&rm -r *.py
+
+    - name: Run Bash Script PLUG
+      run: bash plug.sh&&rm -r plug.sh
     
     - name: Commit and Push Changes
       run: |
