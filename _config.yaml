@@ -34,38 +34,14 @@ keywords:
   - free api
   - free rate api
 
-author: Mmdrza
-email: pymmdrza@gmail.com
-
 # Where things are
-source: ./_docs
-destination: ./_docs/_site/
-plugins_dir: ./_plugins
-layouts_dir: ./_layouts
-data_dir: ./_data
-includes_dir: ./_includes
+source: _docs
+destination: _docs/_site
+plugins_dir: _plugins
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
 
-collections:
-  posts:
-    output: true
-
-# Handling Reading
-exclude: 
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "node_modules"
-  - "vendor/bundle/"
-  - "vendor/cache/"
-  - "vendor/gems/"
-  - "vendor/ruby/"
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-strict_front_matter: false
-
-# Conversion
-markdown: kramdown
-lsi: false
-excerpt_separator: "\n\n"
 
 # Outputting
 permalink: /:title.html
@@ -82,8 +58,3 @@ kramdown:
   auto_ids: true
   entity_output: as_char
   toc_levels: [1, 2, 3, 4, 5, 6]
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  input: GFM
-  hard_wrap: false
-  footnote_nr: 1
-  show_warnings: false
