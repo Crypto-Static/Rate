@@ -1,67 +1,89 @@
-title                : Crypto Static (Rate) Free Api Rate
-description          : Free Api Rate and Ticker For Hit and Top cryptocurrency's
-remote_theme         : pages-themes/hacker@v0.2.0
+title: Crypto Static (Rate) Free API Rate
+description: Free API Rate and Ticker For Hit and Top cryptocurrencies
+remote_theme: pages-themes/hacker@v0.2.0
+
 plugins:
-- jekyll-remote-theme
-- jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-sitemap
+
 github:
-  zip_url           : https://github.com/Crypto-Static/Rate/blob/main/rateStatic.json
-  another_url       : https://github.com/Crypto-Static/Rate/raw/main/rateStatic.json
-incremental         : false
-highlighter         : rouge
-gist:
-  noscript          : false
+  zip_url: https://github.com/Crypto-Static/Rate/blob/main/rateStatic.json
+  another_url: https://github.com/Crypto-Static/Rate/raw/main/rateStatic.json
+
+incremental: false
+highlighter: rouge
+
 kramdown:
-  math_engine       : mathjax
+  math_engine: mathjax
   syntax_highlighter: rouge
-keywords            : [rate, cryptocurrency, ticker, wallet, range, rate bitcoin, rate ethereum, rate tron, rate dogecoin, rate dash, rate zcash, rate litecoin, rate cardano, free api, free rate api]
-author              : Mmdrza
-email               : pymmdrza@gmail.com
+
+keywords: 
+  - rate
+  - cryptocurrency
+  - ticker
+  - wallet
+  - range
+  - rate bitcoin
+  - rate ethereum
+  - rate tron
+  - rate dogecoin
+  - rate dash
+  - rate zcash
+  - rate litecoin
+  - rate cardano
+  - free api
+  - free rate api
+
+author: Mmdrza
+email: pymmdrza@gmail.com
+
 # Where things are
-source              : .
-destination         : ./_docs
-plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
-layouts_dir         : _layouts
-data_dir            : _data
-includes_dir        : _includes
+source: ./_docs
+destination: ./_docs/_site/
+plugins_dir: ./_plugins
+layouts_dir: ./_layouts
+data_dir: ./_data
+includes_dir: ./_includes
+
 collections:
   posts:
-    output          : true
+    output: true
 
 # Handling Reading
-exclude             : ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
-encoding            : "utf-8"
-markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
-strict_front_matter : false
-
-# Plugins
-whitelist           : []
-plugins             : []
+exclude: 
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter: false
 
 # Conversion
-markdown            : kramdown
-highlighter         : rouge
-lsi                 : false
-excerpt_separator   : "\n\n"
-incremental         : false
+markdown: kramdown
+lsi: false
+excerpt_separator: "\n\n"
 
 # Outputting
-permalink           : /:title.html
-paginate_path       : /page:num
-timezone            : null
+permalink: /:title.html
+paginate_path: /page:num
+timezone: null
 
 liquid:
-  error_mode        : warn
-  strict_filters    : false
-  strict_variables  : false
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
 
 # Markdown Processors
 kramdown:
-  auto_ids          : true
-  entity_output     : as_char
-  toc_levels        : [1, 2, 3, 4, 5, 6]
-  smart_quotes      : lsquo,rsquo,ldquo,rdquo
-  input             : GFM
-  hard_wrap         : false
-  footnote_nr       : 1
-  show_warnings     : false
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: [1, 2, 3, 4, 5, 6]
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  show_warnings: false
