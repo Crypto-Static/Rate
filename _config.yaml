@@ -19,7 +19,7 @@ author              : Mmdrza
 email               : pymmdrza@gmail.com
 # Where things are
 source              : .
-destination         : _docs
+destination         : ./_docs
 plugins_dir         : _plugins # takes an array of strings and loads plugins in that order
 layouts_dir         : _layouts
 data_dir            : _data
@@ -47,7 +47,6 @@ incremental         : false
 
 # Outputting
 permalink           : /:title.html
-permalink           : /:categories/:year/:month/:day/:title:output_ext
 paginate_path       : /page:num
 timezone            : null
 
