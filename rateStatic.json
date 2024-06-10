@@ -1,30 +1,30 @@
 {
     "bitcoin": {
-        "rate": "69506.9",
-        "lastUpdateTime": "2024-06-10 23:42:04"
+        "rate": "69513",
+        "lastUpdateTime": "2024-06-10 23:52:18"
     },
     "ethereum": {
-        "rate": "3668.69",
-        "lastUpdateTime": "2024-06-10 23:42:06"
+        "rate": "3667.93",
+        "lastUpdateTime": "2024-06-10 23:52:18"
     },
     "tron": {
-        "rate": "0.1174",
-        "lastUpdateTime": "2024-06-10 23:42:06"
+        "rate": "0.1176",
+        "lastUpdateTime": "2024-06-10 23:52:20"
     },
     "litecoin": {
-        "rate": "79.656",
-        "lastUpdateTime": "2024-06-10 23:42:06"
+        "rate": "79.648",
+        "lastUpdateTime": "2024-06-10 23:52:20"
     },
     "dogecoin": {
-        "rate": "0.1448",
-        "lastUpdateTime": "2024-06-10 23:42:06"
+        "rate": "0.14475",
+        "lastUpdateTime": "2024-06-10 23:52:20"
     },
     "dash": {
-        "rate": "26.16",
-        "lastUpdateTime": "2024-06-10 23:42:04"
+        "rate": "26.2",
+        "lastUpdateTime": "2024-06-10 23:52:18"
     },
     "zcash": {
-        "rate": "23.495",
-        "lastUpdateTime": "2024-06-10 23:42:06"
+        "rate": "23.517",
+        "lastUpdateTime": "2024-06-10 23:52:20"
     }
 }
