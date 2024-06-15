@@ -1,0 +1,42 @@
+name: MODE - Jekyll Build
+on:
+  push:
+    branches:
+      - media
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: Log Level Manual Runner
+        required: true
+        default: Debug
+        type: Choice
+        options:
+          - Info (Create First Information From Os Cron)
+          - Warning (Warning Error Mail to Administrator/Owner)
+          - Debug (Project Dev Debug)
+          - Build (Page Jecklly Builder)
+          - Checker (Check and Set Dict)
+          - Patcher (Patcher Mode)
+          - Auto (Start Update Page)
+          - Rater (Update Clean Mode)
+          - Updater (Update Auto Rater)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: MODE - Checkout Repository
+      uses: actions/checkout@v2
+      with:
+        ref: media
+
+    - name: MODE - Build Jekyll Professional Page
+      uses: actions/jekyll-build-pages@v1
+      with:
+        source: ./docs
+        destination: ./docs/_site
+        future: true
+        build_revision: ${{ github.sha }}
+        verbose: true
+        token: ${{ secrets.GITHUB_TOKEN }}
