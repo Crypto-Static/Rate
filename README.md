@@ -8,6 +8,9 @@
 
 ---
 
+📊 JSON Format : [Latest Update](https://github.com/Crypto-Static/Rate/raw/main/rateStatic.json 'rate static free api crypto')
+
+✅ Direct : `https://github.com/Crypto-Static/Rate/raw/main/rateStatic.json`
 
 
 ```json
