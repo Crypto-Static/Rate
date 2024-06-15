@@ -225,6 +225,17 @@
 ---
 
 
+
+✏️ `2024-06-15` | Added : `lastPrice`
+
+✏️ `2024-06-15` | Added : `highPrice24h`
+
+✏️ `2024-06-15` | Added : `lowPrice24h`
+
+✏️ `2024-06-15` | Added : `changeRate`
+
+---
+
 Hit Cryptocurrency Rate Reporter and Ticker (Auto Update)
 
 
