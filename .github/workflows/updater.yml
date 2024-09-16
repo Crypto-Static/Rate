@@ -1,7 +1,7 @@
 name: Run Updater Script
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every 10 minutes
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
   workflow_dispatch:
     inputs:
       logLevel:
