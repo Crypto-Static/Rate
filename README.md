@@ -17,11 +17,11 @@
 
 |                    | :abacus: | :label: ADA-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `1.0834` |
+| :white_check_mark: | _Last Price_ | `1.0906` |
 | :white_check_mark: | _High Price 24h_ | `1.1119` |
 | :white_check_mark: | _Low Price 24h_ | `1.0528` |
-| :white_check_mark: | _Change Rate_ | `0.0105` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.0178` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: ALGO-USDT    |
@@ -30,7 +30,7 @@
 | :white_check_mark: | _High Price 24h_ | `0.00011416` |
 | :white_check_mark: | _Low Price 24h_ | `0.00011024` |
 | :white_check_mark: | _Change Rate_ | `-0.0048` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: ATOM-USDT    |
@@ -38,17 +38,17 @@
 | :white_check_mark: | _Last Price_ | `0.00007399` |
 | :white_check_mark: | _High Price 24h_ | `0.0000765` |
 | :white_check_mark: | _Low Price 24h_ | `0.00007339` |
-| :white_check_mark: | _Change Rate_ | `-0.0012` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.0001` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: AVAX-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `0.0004336` |
-| :white_check_mark: | _High Price 24h_ | `0.00043574` |
+| :white_check_mark: | _Last Price_ | `0.00043497` |
+| :white_check_mark: | _High Price 24h_ | `0.00043596` |
 | :white_check_mark: | _Low Price 24h_ | `0.00042386` |
-| :white_check_mark: | _Change Rate_ | `-0.0038` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.0047` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: BCH-USDT    |
@@ -57,25 +57,25 @@
 | :white_check_mark: | _High Price 24h_ | `479.33` |
 | :white_check_mark: | _Low Price 24h_ | `463.03` |
 | :white_check_mark: | _Change Rate_ | `-0.0077` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: BTC-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `98432.6` |
-| :white_check_mark: | _High Price 24h_ | `98615.4` |
+| :white_check_mark: | _Last Price_ | `98711.9` |
+| :white_check_mark: | _High Price 24h_ | `98711.9` |
 | :white_check_mark: | _Low Price 24h_ | `97267.7` |
-| :white_check_mark: | _Change Rate_ | `0.001` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.0037` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: CAKE-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `2.806` |
+| :white_check_mark: | _Last Price_ | `2.811` |
 | :white_check_mark: | _High Price 24h_ | `2.852` |
 | :white_check_mark: | _Low Price 24h_ | `2.729` |
-| :white_check_mark: | _Change Rate_ | `-0.0102` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0091` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: DASH-USDT    |
@@ -84,7 +84,7 @@
 | :white_check_mark: | _High Price 24h_ | `0.0004531` |
 | :white_check_mark: | _Low Price 24h_ | `0.0004295` |
 | :white_check_mark: | _Change Rate_ | `0.0264` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: DGB-USDT    |
@@ -93,25 +93,25 @@
 | :white_check_mark: | _High Price 24h_ | `0.00000431` |
 | :white_check_mark: | _Low Price 24h_ | `0.00000393` |
 | :white_check_mark: | _Change Rate_ | `-0.0344` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: DOGE-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `0.38149` |
+| :white_check_mark: | _Last Price_ | `0.3842` |
 | :white_check_mark: | _High Price 24h_ | `0.39855` |
 | :white_check_mark: | _Low Price 24h_ | `0.37526` |
-| :white_check_mark: | _Change Rate_ | `-0.0242` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0268` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: DOT-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `7.6679` |
+| :white_check_mark: | _Last Price_ | `7.6985` |
 | :white_check_mark: | _High Price 24h_ | `7.7309` |
 | :white_check_mark: | _Low Price 24h_ | `7.4614` |
-| :white_check_mark: | _Change Rate_ | `0` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.0038` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: EOS-USDT    |
@@ -120,16 +120,16 @@
 | :white_check_mark: | _High Price 24h_ | `0.9053` |
 | :white_check_mark: | _Low Price 24h_ | `0.8821` |
 | :white_check_mark: | _Change Rate_ | `-0.0008` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: ETC-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `28.037` |
+| :white_check_mark: | _Last Price_ | `28.1722` |
 | :white_check_mark: | _High Price 24h_ | `28.5924` |
 | :white_check_mark: | _Low Price 24h_ | `27.4173` |
-| :white_check_mark: | _Change Rate_ | `-0.0074` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0006` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: ETH-USDT    |
@@ -137,80 +137,80 @@
 | :white_check_mark: | _Last Price_ | `3645.21` |
 | :white_check_mark: | _High Price 24h_ | `3658.92` |
 | :white_check_mark: | _Low Price 24h_ | `3591.41` |
-| :white_check_mark: | _Change Rate_ | `-0.0032` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0008` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: LINK-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `0.00023835` |
+| :white_check_mark: | _Last Price_ | `0.00023907` |
 | :white_check_mark: | _High Price 24h_ | `0.00024194` |
 | :white_check_mark: | _Low Price 24h_ | `0.00023499` |
-| :white_check_mark: | _Change Rate_ | `-0.0133` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0074` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: LTC-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `0.03143` |
-| :white_check_mark: | _High Price 24h_ | `0.031536` |
+| :white_check_mark: | _Last Price_ | `0.031603` |
+| :white_check_mark: | _High Price 24h_ | `0.031855` |
 | :white_check_mark: | _Low Price 24h_ | `0.030268` |
-| :white_check_mark: | _Change Rate_ | `0.0324` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.0401` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: QTUM-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `3.456` |
+| :white_check_mark: | _Last Price_ | `3.468` |
 | :white_check_mark: | _High Price 24h_ | `3.506` |
 | :white_check_mark: | _Low Price 24h_ | `3.397` |
-| :white_check_mark: | _Change Rate_ | `0.0114` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.014` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: RVN-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `0.02304` |
+| :white_check_mark: | _Last Price_ | `0.02313` |
 | :white_check_mark: | _High Price 24h_ | `0.02364` |
 | :white_check_mark: | _Low Price 24h_ | `0.02259` |
-| :white_check_mark: | _Change Rate_ | `-0.0064` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0017` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: SHIB-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `0.00006211` |
-| :white_check_mark: | _High Price 24h_ | `0.000063` |
+| :white_check_mark: | _Last Price_ | `0.00006241` |
+| :white_check_mark: | _High Price 24h_ | `0.0000628` |
 | :white_check_mark: | _Low Price 24h_ | `0.00006122` |
-| :white_check_mark: | _Change Rate_ | `-0.0141` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.0131` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: SOL-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `213.96` |
+| :white_check_mark: | _Last Price_ | `214.49` |
 | :white_check_mark: | _High Price 24h_ | `219.04` |
 | :white_check_mark: | _Low Price 24h_ | `211.482` |
-| :white_check_mark: | _Change Rate_ | `-0.0103` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0082` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: TRX-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `0.2626` |
+| :white_check_mark: | _Last Price_ | `0.2628` |
 | :white_check_mark: | _High Price 24h_ | `0.2702` |
 | :white_check_mark: | _Low Price 24h_ | `0.261` |
-| :white_check_mark: | _Change Rate_ | `-0.0256` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0252` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: UNI-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `15.1894` |
+| :white_check_mark: | _Last Price_ | `15.2459` |
 | :white_check_mark: | _High Price 24h_ | `15.365` |
 | :white_check_mark: | _Low Price 24h_ | `14.817` |
-| :white_check_mark: | _Change Rate_ | `-0.0049` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.003` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: XLM-USDT    |
@@ -218,26 +218,26 @@
 | :white_check_mark: | _Last Price_ | `0.00000446` |
 | :white_check_mark: | _High Price 24h_ | `0.00000464` |
 | :white_check_mark: | _Low Price 24h_ | `0.00000429` |
-| :white_check_mark: | _Change Rate_ | `-0.024` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0229` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: XMR-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `0.05414` |
+| :white_check_mark: | _Last Price_ | `0.05411` |
 | :white_check_mark: | _High Price 24h_ | `0.05512` |
 | :white_check_mark: | _Low Price 24h_ | `0.05169` |
-| :white_check_mark: | _Change Rate_ | `0.0224` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `0.0228` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 |                    | :abacus: | :label: XRP-USDT    |
 |:------------------:|:------------------------|:-----------|
-| :white_check_mark: | _Last Price_ | `2.3875` |
+| :white_check_mark: | _Last Price_ | `2.39935` |
 | :white_check_mark: | _High Price 24h_ | `2.4325` |
 | :white_check_mark: | _Low Price 24h_ | `2.32758` |
-| :white_check_mark: | _Change Rate_ | `-0.0129` |
-| :white_check_mark: | _Last Updated_ | `2025-01-05 22:20:25` |
+| :white_check_mark: | _Change Rate_ | `-0.0084` |
+| :white_check_mark: | _Last Updated_ | `2025-01-05 22:40:01` |
 
 
 
@@ -247,11 +247,11 @@
 [
     {
         "symbol": "ADA-USDT",
-        "lastPrice": "1.0834",
+        "lastPrice": "1.0906",
         "highPrice24h": "1.1119",
         "lowPrice24h": "1.0528",
-        "changeRate": "0.0105",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.0178",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "ALGO-USDT",
@@ -259,23 +259,23 @@
         "highPrice24h": "0.00011416",
         "lowPrice24h": "0.00011024",
         "changeRate": "-0.0048",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "ATOM-USDT",
         "lastPrice": "0.00007399",
         "highPrice24h": "0.0000765",
         "lowPrice24h": "0.00007339",
-        "changeRate": "-0.0012",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.0001",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "AVAX-USDT",
-        "lastPrice": "0.0004336",
-        "highPrice24h": "0.00043574",
+        "lastPrice": "0.00043497",
+        "highPrice24h": "0.00043596",
         "lowPrice24h": "0.00042386",
-        "changeRate": "-0.0038",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.0047",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "BCH-USDT",
@@ -283,23 +283,23 @@
         "highPrice24h": "479.33",
         "lowPrice24h": "463.03",
         "changeRate": "-0.0077",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "BTC-USDT",
-        "lastPrice": "98432.6",
-        "highPrice24h": "98615.4",
+        "lastPrice": "98711.9",
+        "highPrice24h": "98711.9",
         "lowPrice24h": "97267.7",
-        "changeRate": "0.001",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.0037",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "CAKE-USDT",
-        "lastPrice": "2.806",
+        "lastPrice": "2.811",
         "highPrice24h": "2.852",
         "lowPrice24h": "2.729",
-        "changeRate": "-0.0102",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0091",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "DASH-USDT",
@@ -307,7 +307,7 @@
         "highPrice24h": "0.0004531",
         "lowPrice24h": "0.0004295",
         "changeRate": "0.0264",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "DGB-USDT",
@@ -315,23 +315,23 @@
         "highPrice24h": "0.00000431",
         "lowPrice24h": "0.00000393",
         "changeRate": "-0.0344",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "DOGE-USDT",
-        "lastPrice": "0.38149",
+        "lastPrice": "0.3842",
         "highPrice24h": "0.39855",
         "lowPrice24h": "0.37526",
-        "changeRate": "-0.0242",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0268",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "DOT-USDT",
-        "lastPrice": "7.6679",
+        "lastPrice": "7.6985",
         "highPrice24h": "7.7309",
         "lowPrice24h": "7.4614",
-        "changeRate": "0",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.0038",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "EOS-USDT",
@@ -339,125 +339,125 @@
         "highPrice24h": "0.9053",
         "lowPrice24h": "0.8821",
         "changeRate": "-0.0008",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "ETC-USDT",
-        "lastPrice": "28.037",
+        "lastPrice": "28.1722",
         "highPrice24h": "28.5924",
         "lowPrice24h": "27.4173",
-        "changeRate": "-0.0074",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0006",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "ETH-USDT",
         "lastPrice": "3645.21",
         "highPrice24h": "3658.92",
         "lowPrice24h": "3591.41",
-        "changeRate": "-0.0032",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0008",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "LINK-USDT",
-        "lastPrice": "0.00023835",
+        "lastPrice": "0.00023907",
         "highPrice24h": "0.00024194",
         "lowPrice24h": "0.00023499",
-        "changeRate": "-0.0133",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0074",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "LTC-USDT",
-        "lastPrice": "0.03143",
-        "highPrice24h": "0.031536",
+        "lastPrice": "0.031603",
+        "highPrice24h": "0.031855",
         "lowPrice24h": "0.030268",
-        "changeRate": "0.0324",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.0401",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "QTUM-USDT",
-        "lastPrice": "3.456",
+        "lastPrice": "3.468",
         "highPrice24h": "3.506",
         "lowPrice24h": "3.397",
-        "changeRate": "0.0114",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.014",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "RVN-USDT",
-        "lastPrice": "0.02304",
+        "lastPrice": "0.02313",
         "highPrice24h": "0.02364",
         "lowPrice24h": "0.02259",
-        "changeRate": "-0.0064",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0017",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "SHIB-USDT",
-        "lastPrice": "0.00006211",
-        "highPrice24h": "0.000063",
+        "lastPrice": "0.00006241",
+        "highPrice24h": "0.0000628",
         "lowPrice24h": "0.00006122",
-        "changeRate": "-0.0141",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.0131",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "SOL-USDT",
-        "lastPrice": "213.96",
+        "lastPrice": "214.49",
         "highPrice24h": "219.04",
         "lowPrice24h": "211.482",
-        "changeRate": "-0.0103",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0082",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "TRX-USDT",
-        "lastPrice": "0.2626",
+        "lastPrice": "0.2628",
         "highPrice24h": "0.2702",
         "lowPrice24h": "0.261",
-        "changeRate": "-0.0256",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0252",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "UNI-USDT",
-        "lastPrice": "15.1894",
+        "lastPrice": "15.2459",
         "highPrice24h": "15.365",
         "lowPrice24h": "14.817",
-        "changeRate": "-0.0049",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.003",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "XLM-USDT",
         "lastPrice": "0.00000446",
         "highPrice24h": "0.00000464",
         "lowPrice24h": "0.00000429",
-        "changeRate": "-0.024",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0229",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "XMR-USDT",
-        "lastPrice": "0.05414",
+        "lastPrice": "0.05411",
         "highPrice24h": "0.05512",
         "lowPrice24h": "0.05169",
-        "changeRate": "0.0224",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "0.0228",
+        "lastUpdated": "2025-01-05 22:40:01"
     },
     {
         "symbol": "XRP-USDT",
-        "lastPrice": "2.3875",
+        "lastPrice": "2.39935",
         "highPrice24h": "2.4325",
         "lowPrice24h": "2.32758",
-        "changeRate": "-0.0129",
-        "lastUpdated": "2025-01-05 22:20:25"
+        "changeRate": "-0.0084",
+        "lastUpdated": "2025-01-05 22:40:01"
     }
 ]
 ```
 ---
 
-:zap: `2025-01-05 22:20:25` | Added : `lastPrice`
+:zap: `2025-01-05 22:40:01` | Added : `lastPrice`
 
-:zap: `2025-01-05 22:20:25` | Added : `highPrice24h`
+:zap: `2025-01-05 22:40:01` | Added : `highPrice24h`
 
-:zap: `2025-01-05 22:20:25` | Added : `lowPrice24h`
+:zap: `2025-01-05 22:40:01` | Added : `lowPrice24h`
 
-:zap: `2025-01-05 22:20:25` | Added : `changeRate`
+:zap: `2025-01-05 22:40:01` | Added : `changeRate`
 
-:zap: `2025-01-05 22:20:25` | Added : `lastUpdated`
+:zap: `2025-01-05 22:40:01` | Added : `lastUpdated`
 
 ---
 
