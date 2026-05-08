@@ -1,139 +1,139 @@
 [
     {
         "symbol": "ADA-USDT",
-        "lastPrice": "0.2719",
-        "highPrice24h": "0.2723",
+        "lastPrice": "0.2714",
+        "highPrice24h": "0.2729",
         "lowPrice24h": "0.2602",
-        "changeRate": "0.0401",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0315",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "ALGO-USDT",
-        "lastPrice": "0.00005629",
+        "lastPrice": "0.00005722",
         "highPrice24h": "0.00005722",
         "lowPrice24h": "0.00005505",
-        "changeRate": "0.0214",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0394",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "ATOM-USDT",
-        "lastPrice": "0.00002371",
-        "highPrice24h": "0.00002409",
+        "lastPrice": "0.00002407",
+        "highPrice24h": "0.00002415",
         "lowPrice24h": "0.00002328",
-        "changeRate": "0.0025",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0199",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "AVAX-USDT",
-        "lastPrice": "0.00012246",
-        "highPrice24h": "0.00012246",
+        "lastPrice": "0.00012413",
+        "highPrice24h": "0.00012413",
         "lowPrice24h": "0.00011813",
-        "changeRate": "0.0349",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0486",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "BCH-USDT",
-        "lastPrice": "448",
-        "highPrice24h": "451.37",
+        "lastPrice": "453.29",
+        "highPrice24h": "453.52",
         "lowPrice24h": "448",
-        "changeRate": "-0.0053",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0069",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "BTC-USDT",
-        "lastPrice": "80250.82",
+        "lastPrice": "80068.72",
         "highPrice24h": "80421.06",
         "lowPrice24h": "79363.4",
-        "changeRate": "0.0039",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0006",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "CAKE-USDT",
-        "lastPrice": "1.557",
-        "highPrice24h": "1.557",
+        "lastPrice": "1.554",
+        "highPrice24h": "1.56",
         "lowPrice24h": "1.501",
-        "changeRate": "0.0189",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.021",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "DASH-USDT",
-        "lastPrice": "0.0006217",
+        "lastPrice": "0.0006074",
         "highPrice24h": "0.0006575",
-        "lowPrice24h": "0.0006108",
-        "changeRate": "-0.0285",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "lowPrice24h": "0.0006074",
+        "changeRate": "-0.0378",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "DGB-USDT",
-        "lastPrice": "0.00378",
-        "highPrice24h": "0.003843",
+        "lastPrice": "0.003836",
+        "highPrice24h": "0.0039",
         "lowPrice24h": "0.0037",
-        "changeRate": "0.0029",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0113",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "DOGE-USDT",
-        "lastPrice": "0.10829",
-        "highPrice24h": "0.10844",
+        "lastPrice": "0.10902",
+        "highPrice24h": "0.10902",
         "lowPrice24h": "0.10565",
-        "changeRate": "0.0065",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.007",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "DOT-USDT",
-        "lastPrice": "1.3656",
-        "highPrice24h": "1.3693",
+        "lastPrice": "1.3732",
+        "highPrice24h": "1.3819",
         "lowPrice24h": "1.2936",
         "changeRate": "0.0469",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "ETC-USDT",
-        "lastPrice": "9.7559",
-        "highPrice24h": "9.8616",
+        "lastPrice": "9.8149",
+        "highPrice24h": "9.8763",
         "lowPrice24h": "9.1667",
-        "changeRate": "0.0564",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0627",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "ETH-USDT",
-        "lastPrice": "0.02883",
-        "highPrice24h": "0.02885",
+        "lastPrice": "0.02894",
+        "highPrice24h": "0.02896",
         "lowPrice24h": "0.02849",
-        "changeRate": "0.0045",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0101",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "LINK-USDT",
-        "lastPrice": "0.00012796",
-        "highPrice24h": "0.000128",
+        "lastPrice": "0.00012976",
+        "highPrice24h": "0.00013065",
         "lowPrice24h": "0.00012293",
-        "changeRate": "0.0351",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0494",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "LTC-USDT",
-        "lastPrice": "0.02519",
-        "highPrice24h": "0.02523",
+        "lastPrice": "0.02529",
+        "highPrice24h": "0.0254",
         "lowPrice24h": "0.02459",
-        "changeRate": "0.0219",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0267",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "QTUM-USDT",
-        "lastPrice": "0.955",
-        "highPrice24h": "0.955",
+        "lastPrice": "0.965",
+        "highPrice24h": "0.972",
         "lowPrice24h": "0.912",
-        "changeRate": "0.0346",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0409",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "RVN-USDT",
         "lastPrice": "0.00631",
-        "highPrice24h": "0.00631",
+        "highPrice24h": "0.00633",
         "lowPrice24h": "0.00608",
-        "changeRate": "0.0293",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0276",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "SHIB-USDT",
@@ -141,54 +141,54 @@
         "highPrice24h": "0.00005937",
         "lowPrice24h": "0.00005737",
         "changeRate": "0.0137",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "SOL-USDT",
-        "lastPrice": "10.952",
-        "highPrice24h": "10.987",
+        "lastPrice": "11.056",
+        "highPrice24h": "11.087",
         "lowPrice24h": "10.608",
-        "changeRate": "0.0284",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0326",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "TRX-USDT",
-        "lastPrice": "0.3503",
+        "lastPrice": "0.3498",
         "highPrice24h": "0.3519",
         "lowPrice24h": "0.3468",
-        "changeRate": "0.0031",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0014",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "UNI-USDT",
-        "lastPrice": "3.6688",
+        "lastPrice": "3.6858",
         "highPrice24h": "3.7051",
         "lowPrice24h": "3.3869",
-        "changeRate": "0.073",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0725",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "XLM-USDT",
-        "lastPrice": "0.00000204",
-        "highPrice24h": "0.00000204",
+        "lastPrice": "0.00000205",
+        "highPrice24h": "0.00000206",
         "lowPrice24h": "0.00000197",
-        "changeRate": "0.0271",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0358",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "XMR-USDT",
-        "lastPrice": "0.17264",
-        "highPrice24h": "0.17824",
+        "lastPrice": "0.17371",
+        "highPrice24h": "0.17697",
         "lowPrice24h": "0.17025",
-        "changeRate": "-0.0284",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "-0.0151",
+        "lastUpdated": "2026-05-08 19:40:03"
     },
     {
         "symbol": "XRP-USDT",
-        "lastPrice": "1.4058",
-        "highPrice24h": "1.4059",
+        "lastPrice": "1.4194",
+        "highPrice24h": "1.4198",
         "lowPrice24h": "1.3806",
-        "changeRate": "0.0104",
-        "lastUpdated": "2026-05-08 17:41:16"
+        "changeRate": "0.0232",
+        "lastUpdated": "2026-05-08 19:40:03"
     }
 ]
